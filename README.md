@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Passionate about web development.
-- 🎓 &nbsp; Studying Computer Science at unity university.
+- 🎓 &nbsp; Studying Computer Science at Unity university.
 - 💼 &nbsp; Looking for a junior web developer position.
 - 🌱 &nbsp; Learning more about javascript, React, node.js.
 
