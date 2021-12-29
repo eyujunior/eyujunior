@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Passionate about web development.
 - 🎓 &nbsp; Studying Computer Science at Unity university.
-- 💼 &nbsp; Intern at Bluechips Tech
-- 🌱 &nbsp; Learning more about javascript, Vuejs, node.js.
+- 💼 &nbsp; Frontend developer and UI/UX designer at Mookoob.
+- 🌱 &nbsp; Learning more about javascript, React, node.js.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -16,6 +16,7 @@
   ![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Vue js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
