@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Passionate about web development.
-- 🎓 &nbsp; Studying Computer Science at Unity university.
+- 🎓 &nbsp; college dropout.
 - 💼 &nbsp; Frontend developer and UI/UX designer at Mookoob.
-- 🌱 &nbsp; Learning more about javascript, React, node.js.
+- 🌱 &nbsp; Learning more about javascript, React, graphql.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
