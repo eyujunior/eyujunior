@@ -8,7 +8,7 @@ Frontend Developer and UI Designer. I design and develop web apps using the late
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * ✉️  You can contact me at [developer@eyobelkirub.com](mailto:developer@eyobelkirub.com)
-* 🧠  I'm learning GSAP
+* 🧠  I'm learning Blockchain, solidity, ethereum and all things web3
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
