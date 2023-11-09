@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eyobel Kirub
 ====================================================================================================================================
 
-Frontend developer & UI/UX Designer
+Frontend developer & Visual Designer
 -----------------------------------
 
 Frontend Developer and UI Designer. I design and develop web apps using the latest technologies to deliver products with quality code and intuitive interface
