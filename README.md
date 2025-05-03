@@ -7,7 +7,7 @@ Frontend developer & Visual Designer
 Frontend Developer and UI Designer. I design and develop web apps using the latest technologies to deliver products with quality code and intuitive interface
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
-* ✉️  You can contact me at [developer@eyobelkirub.com](mailto:developer@eyobelkirub.com)
+* ✉️  You can contact me at [developer@eyobelkirub.com](mailto:developer@eyobelkirub.dev)
 * 🧠  I'm learning Blockchain, solidity, ethereum and all things web3
 * 🤝  I'm open to collaborating on Interesting projects
 
